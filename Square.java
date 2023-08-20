@@ -78,8 +78,7 @@ class SquareLinkedList {
         }
     }
 }
-
-public class Main {
+class Main {
     public static void main(String[] args) {
         SquareLinkedList squareList = new SquareLinkedList();
 
